@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|c:\\users\\ryuk\\desktop\\projetcsharp (designed by brayan with backend code)\\projetcsharp\\usercontrols\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\dahsboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\dahsboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\dahsboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\dahsboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\voyageurpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\voyageurpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\reservationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\voyageurpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\voyageurpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\avionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\avionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\avionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\avionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\reservationpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\reservationpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\reservationpage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\reservationpage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\dahsboardpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\dahsboardpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\avionpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\avionpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\usercontrols\\avionpage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\usercontrols\\avionpage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\projetcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462EB2E9-0241-448A-981A-897E7FE9C3C8}|ProjetCsharp\\ProjetCsharp.csproj|solutionrelative:projetcsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\ReservationPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\ReservationPage.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAPkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:14:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DahsboardPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\DahsboardPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\DahsboardPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\DahsboardPage.cs [Design]",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\DahsboardPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:17:42.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoyageurPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\VoyageurPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\VoyageurPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\VoyageurPage.cs [Design]",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\VoyageurPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:57:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DahsboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\DahsboardPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\DahsboardPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\DahsboardPage.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\DahsboardPage.cs",
+              "ViewState": "AQIAAF8CAAAAAAAAAAAAAHoCAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T00:17:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\ReservationPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.cs [Design]",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\ReservationPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:46:00.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationPage.resx",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.resx",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\ReservationPage.resx",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.resx",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\ReservationPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-12T03:48:41.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvionPage.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\AvionPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\AvionPage.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAswGIAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:17:53.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoyageurPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\VoyageurPage.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\VoyageurPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\VoyageurPage.Designer.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\VoyageurPage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:57:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.Designer.cs",
+              "RelativeToolTip": "ProjetCsharp\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:39:32.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AvionPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\AvionPage.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.cs [Design]",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\AvionPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:48:36.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\ReservationPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\ReservationPage.Designer.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\ReservationPage.Designer.cs",
+              "ViewState": "AQIAAO0BAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:48:44.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjetCsharp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:31:17.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\packages.config",
+              "RelativeDocumentMoniker": "ProjetCsharp\\packages.config",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\packages.config",
+              "RelativeToolTip": "ProjetCsharp\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-12T03:51:20.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.resx",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Form1.resx",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.resx",
+              "RelativeToolTip": "ProjetCsharp\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-12T03:51:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AvionPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\AvionPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.Designer.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\AvionPage.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAM0BAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:33:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DahsboardPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\DahsboardPage.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\DahsboardPage.Designer.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\DahsboardPage.Designer.cs",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\DahsboardPage.Designer.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAD4v7AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T02:45:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AvionPage.resx",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.resx",
+              "RelativeDocumentMoniker": "ProjetCsharp\\UserControls\\AvionPage.resx",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\UserControls\\AvionPage.resx",
+              "RelativeToolTip": "ProjetCsharp\\UserControls\\AvionPage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-12T03:33:07.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjetCsharp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ryuk\\Desktop\\ProjetCsharp (designed by Brayan with backend code)\\ProjetCsharp\\Form1.cs",
+              "RelativeToolTip": "ProjetCsharp\\Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T01:07:55.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
